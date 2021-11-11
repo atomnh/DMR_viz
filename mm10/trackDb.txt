@@ -1,0 +1,42 @@
+track CTRLvsHET-CTRL_DMRs
+bigDataUrl DMR.CTRLvsHET-CTRL.bw
+shortLabel CTRLvsHET-CTRL DMRs
+longLabel CTRLvsHET-CTRL DMRs visualization
+type bigWig
+
+track CTRLvsMILD_DMRs
+bigDataUrl DMR.CTRLvsMILD.bw
+shortLabel CTRLvsMILD DMRs
+longLabel CTRLvsMILD DMRs visualization
+type bigWig
+
+track CTRLvsSEVERE_DMRs
+bigDataUrl DMR.CTRLvsSEVERE.bw
+shortLabel CTRLvsSEVERE DMRs
+longLabel CTRLvsSEVERE DMRs visualization
+type bigWig
+
+track CTRLvsSYMPTOMIC_DMRs
+bigDataUrl DMR.CTRLvsSYMPTOMIC.bw
+shortLabel CTRLvsSYMPTOMIC DMRs
+longLabel CTRLvsSYMPTOMIC DMRs visualization
+type bigWig
+
+track HET-CTRLvsMILD_DMRs
+bigDataUrl DMR.HET-CTRLvsMILD.bw
+shortLabel HET-CTRLvsMILD DMRs
+longLabel HET-CTRLvsMILD DMRs visualization
+type bigWig
+
+track HET-CTRLvsSEVERE_DMRs
+bigDataUrl DMR.HET-CTRLvsSEVERE.bw
+shortLabel HET-CTRLvsSEVERE DMRs
+longLabel HET-CTRLvsSEVERE DMRs visualization
+type bigWig
+
+track HET-CTRLvsSYMPTOMIC_DMRs
+bigDataUrl DMR.HET-CTRLvsSYMPTOMIC.bw
+shortLabel HET-CTRLvsSYMPTOMIC DMRs
+longLabel HET-CTRLvsSYMPTOMIC DMRs visualization
+type bigWig
+
