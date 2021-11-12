@@ -1,5 +1,5 @@
-hub DMR_viz
-shortLabel DMR visualization
-longLabel DMR visualization of all comparison
+hub DMR_CpG.viz
+shortLabel DMR_CpG visualization
+longLabel DMR_CpG visualization of all comparison
 genomesFile genomes.txt
 email lihua.huang@link.cuhk.edu.hk

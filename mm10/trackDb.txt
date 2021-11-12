@@ -40,3 +40,45 @@ shortLabel HET-CTRLvsSYMPTOMIC DMRs
 longLabel HET-CTRLvsSYMPTOMIC DMRs visualization
 type bigWig
 
+track CTRLvsHET-CTRL_CpGs
+bigDataUrl cpg.CTRLvsHET-CTRL.bw
+shortLabel CTRLvsHET-CTRL CpGs
+longLabel CTRLvsHET-CTRL CpGs visualization
+type bigWig
+
+track CTRLvsMILD_CpGs
+bigDataUrl cpg.CTRLvsMILD.bw
+shortLabel CTRLvsMILD CpGs
+longLabel CTRLvsMILD CpGs visualization
+type bigWig
+
+track CTRLvsSEVERE_CpGs
+bigDataUrl cpg.CTRLvsSEVERE.bw
+shortLabel CTRLvsSEVERE CpGs
+longLabel CTRLvsSEVERE CpGs visualization
+type bigWig
+
+track CTRLvsSYMPTOMIC_CpGs
+bigDataUrl cpg.CTRLvsSYMPTOMIC.bw
+shortLabel CTRLvsSYMPTOMIC CpGs
+longLabel CTRLvsSYMPTOMIC CpGs visualization
+type bigWig
+
+track HET-CTRLvsMILD_CpGs
+bigDataUrl cpg.HET-CTRLvsMILD.bw
+shortLabel HET-CTRLvsMILD CpGs
+longLabel HET-CTRLvsMILD CpGs visualization
+type bigWig
+
+track HET-CTRLvsSEVERE_CpGs
+bigDataUrl cpg.HET-CTRLvsSEVERE.bw
+shortLabel HET-CTRLvsSEVERE CpGs
+longLabel HET-CTRLvsSEVERE CpGs visualization
+type bigWig
+
+track HET-CTRLvsSYMPTOMIC_CpGs
+bigDataUrl cpg.HET-CTRLvsSYMPTOMIC.bw
+shortLabel HET-CTRLvsSYMPTOMIC CpGs
+longLabel HET-CTRLvsSYMPTOMIC CpGs visualization
+type bigWig
+
